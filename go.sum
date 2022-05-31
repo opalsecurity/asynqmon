@@ -69,12 +69,12 @@ github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/hibiken/asynq v0.19.0/go.mod h1:tyc63ojaW8SJ5SBm8mvI4DDONsguP5HE85EEl4Qr5Ig=
-github.com/hibiken/asynq v0.22.0 h1:D79/BR97IHvNwH3IWhWjtmMi+AQngVPcm4oFUI9LsII=
-github.com/hibiken/asynq v0.22.0/go.mod h1:K70jPVx+CAmmQrXot7Dru0D52EO7ob4BIun3ri5z1Qw=
 github.com/hibiken/asynq v0.23.0 h1:kmKkNFgqiXBatC8oz94Mer6uvKoGn4STlIVDV5wnKyE=
 github.com/hibiken/asynq v0.23.0/go.mod h1:K70jPVx+CAmmQrXot7Dru0D52EO7ob4BIun3ri5z1Qw=
 github.com/hibiken/asynq/x v0.0.0-20211219150637-8dfabfccb3be h1:89J7WrDuoqFaKoQjZwqPczQXgXZ71liWYM+z9a8sILs=
 github.com/hibiken/asynq/x v0.0.0-20211219150637-8dfabfccb3be/go.mod h1:VmxwMfMKyb6gyv8xG0oOBMXIhquWKPx+zPtbVBd2Q1s=
+github.com/hibiken/asynqmon v0.7.1 h1:jmBwYxiht6Yqo6OkdsZKy8QQrT6/gMXmUGvWBzdx/8Y=
+github.com/hibiken/asynqmon v0.7.1/go.mod h1:35Tg9h0C/MIMlZK4ZkDoI7QcIFG6l0VpMTanw3K4mY8=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
